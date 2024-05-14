@@ -11,7 +11,7 @@
     "url": "git+https://github.com/apiverve/streetaddressparser-API.git"
   },
   "keywords": [
-    "street address parser"," street address parser api"," street address parser tool"," street address parser software"," street address parser service"," street address parser library"," street address parser sdk"," street address parser code"," street address parser script"," street address parser program"," street address parser application"," street address parser app"," street address parser utility"," street address parser helper"," street address parser helper tool"," street address parser helper software"," street address parser helper service"," street address parser helper library"," street address parser helper sdk"," street address parser helper code"," street address parser helper script"," street address parser helper program"," street address parser helper application"," street address parser helper app"," street address parser helper utility"," street address parser helper"
+    "street address parser","street address parser api","street address parser tool","street address parser software","street address parser service"
   ],
   "author": "APIVerve <hello@apiverve.com> (http://apiverve.com/)",
   "license": "MIT",
@@ -27,6 +27,6 @@
   "dependencies": {
     "node-fetch": "3.3.2",
     "promise": "^7.1.1",
-    "request": "^2.69.0"
+    "axios": "^0.15.3"
   }
 }
