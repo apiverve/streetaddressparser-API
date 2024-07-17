@@ -1,6 +1,6 @@
 {
   "name": "@apiverve/streetaddressparser",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Street Address Parser is a simple tool for parsing a US street addresses. It returns the parsed components of the street address provided.",
   "main": "index.js",
   "scripts": {
